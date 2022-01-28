@@ -27,5 +27,5 @@
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pauloszuparits&show_icons=true&locale=en" alt="pauloszuparits" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pauloszuparits&" alt="pauloszuparits" /></p>
+<p margin-top: 20px><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pauloszuparits&" alt="pauloszuparits" /></p>
 

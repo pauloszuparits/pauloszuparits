@@ -1,9 +1,3 @@
-<style>
-    .conteiner{
-        display: flex;
-        flex-direction: column;
-    }
-</style>
 
 <h1 align="center">Hi 👋, I'm Paulo</h1>
 <h3 align="center">A passionate about programming from Brazil</h3>

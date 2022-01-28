@@ -17,17 +17,17 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauloszuparits&show_icons=true&locale=en&layout=compact" alt="pauloszuparits" /></p>
 
-<div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/pauloszuparits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pauloszuparits" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pauloszuparits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pauloszuparits" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/274530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="274530" height="30" width="40" /></a>
 </p>
-<div/>
+
 
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pauloszuparits&show_icons=true&locale=en" alt="pauloszuparits" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pauloszuparits&" alt="pauloszuparits" /></p>
+
 

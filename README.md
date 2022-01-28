@@ -24,7 +24,7 @@
 
 <div class="conteiner">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pauloszuparits&show_icons=true&locale=en&layout=compact" alt="pauloszuparits" /></p>
-
+<p>&nbsp;</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pauloszuparits&show_icons=true&locale=en" alt="pauloszuparits" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pauloszuparits&" alt="pauloszuparits" /></p>

@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://dev.to/pauloszuparits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pauloszuparits" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pauloszuparits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pauloszuparits" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/274530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="274530" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18062735" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="274530" height="30" width="40" /></a>
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pauloszuparits&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)

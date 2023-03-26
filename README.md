@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Paulo Szuparits</h1>
-<h3 align="center">Desenvolvedor back-end brasileiro</h3>
+<h3 align="center">Desenvolvedor back-end</h3>
 
 - 🔭 Atualmente trabalhando na [Sankhya gestão de negócios](https://www.linkedin.com/company/sankhyagestao/mycompany/verification/)
 
